@@ -39,6 +39,7 @@ To contribute to the success of a business by utilizing data analytics technique
 
 📸 Dashboard Preview  
 <img src="sheet 1.png" width="800">
+
 <img src="sheet 2.png" width="800">
 
 📥 How to Use  
