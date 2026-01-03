@@ -38,7 +38,8 @@ To contribute to the success of a business by utilizing data analytics technique
 - Interactive Filters & Slicers  
 
 📸 Dashboard Preview  
-
+<img src="sheet 1.png" width="800">
+<img src="sheet 2.png" width="800">
 
 📥 How to Use  
 1. Download the `.pbix` file from this repository  
